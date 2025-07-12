@@ -1,13 +1,15 @@
 # Mi Tienda Artesanal
 
-Este es un proyecto realizado en React para la materia Desarrollo Web Integral.
+Repositorio para despliegue en Vercel de tienda de artesanías desarrollada para la materia Desarrollo Web Integral (UNIR).
 
 ## Funcionalidades:
 - Listado de productos artesanales
-- Vista de detalle
+- Vista de detalle del producto
 - Carrito de compras simulado
 - Filtro de búsqueda
-- Estilos con BEM
-- Hooks personalizados
+- Estilos organizados con metodología BEM
+- Hooks personalizados (carrito, devoluciones)
+- Página de devoluciones con política incluida
 
-Despliegue: ver `url-vercel.txt`
+## Despliegue:
+Ver archivo `url-vercel.txt` o accede al enlace directo una vez desplegado.
