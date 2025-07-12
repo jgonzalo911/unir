@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pulsera tejida",
+    "categoria": "Accesorios",
+    "descripcion": "Pulsera artesanal de hilo con colores tradicionales.",
+    "precio": 120,
+    "imagen": "/images/pulsera.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Jarra de barro",
+    "categoria": "Hogar",
+    "descripcion": "Jarra decorativa hecha a mano con barro natural.",
+    "precio": 300,
+    "imagen": "/images/jarro.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Bolso bordado",
+    "categoria": "Moda",
+    "descripcion": "Bolso de tela bordado a mano por artesanas locales.",
+    "precio": 450,
+    "imagen": "/images/bolsa.jpg"
+  }
+]
