@@ -20,7 +20,7 @@ function Checkout() {
             ))}
           </ul>
           <p><strong>Total a pagar:</strong> ${total.toFixed(2)}</p>
-          {/* Aquí puedes agregar un botón para confirmar compra o integrar pago */}
+          {}
         </>
       )}
     </section>
