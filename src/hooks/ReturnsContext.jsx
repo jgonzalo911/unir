@@ -10,7 +10,7 @@ export function ReturnsProvider({ children }) {
     setReturns((prev) => [...prev, devolucion]);
   };
 
-  // Opcional: función para limpiar devoluciones (no siempre necesaria)
+  // Opcional: función para limpiar devoluciones (no implementado)
   const clearReturns = () => {
     setReturns([]);
   };
